@@ -7,7 +7,7 @@ verticles with the redis host:
 }
 ----
 
-By default it uses `127.0.0.1` as host. The post is set to `6379`.
+By default it uses `127.0.0.1` as host. The port is set to `6379`.
 
 Once the redis instance is running, you can launch it using:
 
